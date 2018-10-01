@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c64e7f4-723b-4344-9450-8bfe8ca2df3d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../FeetAndInchesToCentimeter/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ByteShortInt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DayOfWeek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfWeek/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DecimalComparator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EqualSumCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumCheck/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FeetAndInchesToCentimeter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FeetAndInchesToCentimeter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HighScore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HighScore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MinToYearAndDayCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinToYearAndDayCalculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayingCat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticeOperator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeOperator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SecondMinutesChalenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondMinutesChalenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TeenNumberCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenNumberCheck/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extraEnd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../extraEnd/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3c64e7f4-723b-4344-9450-8bfe8ca2df3d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,10 +47,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,15 +126,15 @@
       <workItem from="1537510735127" duration="78000" />
       <workItem from="1537510869060" duration="608000" />
       <workItem from="1538378117634" duration="9000" />
+      <workItem from="1538378175453" duration="156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1324000" />
+    <option name="totallyTimeSpent" value="1480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="40" width="1400" height="908" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -176,6 +173,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
