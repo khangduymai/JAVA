@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4e5bade-6dab-4bc9-90b6-91210fe2f7df" name="Default" comment="" />
+    <list default="true" id="1a534cee-38e2-4190-9a52-52642d1075f2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../EvenDigitSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SharedDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstAndLastDigitSum/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,12 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FirstAndLastDigitSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FirstAndLastDigitSum.java">
+    <leaf>
+      <file leaf-file-name="SharedDigit.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SharedDigit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="555">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -36,7 +41,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FirstAndLastDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/SharedDigit.java" />
       </list>
     </option>
   </component>
@@ -55,33 +60,31 @@
     <option name="width" value="1400" />
     <option name="height" value="908" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FirstAndLastDigitSum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstAndLastDigitSum" type="462c0819:PsiDirectoryNode" />
+              <item name="SharedDigit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedDigit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstAndLastDigitSum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstAndLastDigitSum" type="462c0819:PsiDirectoryNode" />
+              <item name="SharedDigit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedDigit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,9 +110,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="FirstAndLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstAndLastDigitSum" />
-      <module name="FirstAndLastDigitSum" />
+    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SharedDigit" />
+      <module name="SharedDigit" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -155,7 +158,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstAndLastDigitSum" />
+        <item itemvalue="Application.SharedDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -164,26 +167,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f4e5bade-6dab-4bc9-90b6-91210fe2f7df" name="Default" comment="" />
-      <created>1538553534341</created>
+      <changelist id="1a534cee-38e2-4190-9a52-52642d1075f2" name="Default" comment="" />
+      <created>1538589066819</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538553534341</updated>
-      <workItem from="1538553542392" duration="2071000" />
-      <workItem from="1538555735599" duration="2559000" />
+      <updated>1538589066819</updated>
+      <workItem from="1538589068192" duration="3102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4630000" />
+    <option name="totallyTimeSpent" value="3102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="355" y="34" width="1400" height="908" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32957393" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -195,7 +196,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22571428" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22357143" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -218,10 +219,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FirstAndLastDigitSum.java">
+    <entry file="file://$PROJECT_DIR$/src/SharedDigit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="555">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>

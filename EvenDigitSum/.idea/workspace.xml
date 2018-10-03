@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4e5bade-6dab-4bc9-90b6-91210fe2f7df" name="Default" comment="" />
+    <list default="true" id="1c991835-47c3-4b51-b7cc-e1c0d73e1d44" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstAndLastDigitSum/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FirstAndLastDigitSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FirstAndLastDigitSum.java">
+    <leaf>
+      <file leaf-file-name="EvenDigitSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EvenDigitSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="555">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -36,7 +39,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FirstAndLastDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/EvenDigitSum.java" />
       </list>
     </option>
   </component>
@@ -63,25 +66,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FirstAndLastDigitSum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstAndLastDigitSum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstAndLastDigitSum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstAndLastDigitSum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="EvenDigitSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvenDigitSum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,9 +105,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="FirstAndLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstAndLastDigitSum" />
-      <module name="FirstAndLastDigitSum" />
+    <configuration name="EvenDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenDigitSum" />
+      <module name="EvenDigitSum" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -155,7 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstAndLastDigitSum" />
+        <item itemvalue="Application.EvenDigitSum" />
       </list>
     </recent_temporary>
   </component>
@@ -164,18 +162,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f4e5bade-6dab-4bc9-90b6-91210fe2f7df" name="Default" comment="" />
-      <created>1538553534341</created>
+      <changelist id="1c991835-47c3-4b51-b7cc-e1c0d73e1d44" name="Default" comment="" />
+      <created>1538584992358</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538553534341</updated>
-      <workItem from="1538553542392" duration="2071000" />
-      <workItem from="1538555735599" duration="2559000" />
+      <updated>1538584992358</updated>
+      <workItem from="1538584993672" duration="1088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4630000" />
+    <option name="totallyTimeSpent" value="1088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="355" y="34" width="1400" height="908" extended-state="0" />
@@ -218,10 +215,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FirstAndLastDigitSum.java">
+    <entry file="file://$PROJECT_DIR$/src/EvenDigitSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
