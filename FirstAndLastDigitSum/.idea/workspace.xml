@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7448190e-db92-409a-885b-b7a430f72d00" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../FirstAndLastDigitSum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstAndLastDigitSum/src/FirstAndLastDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f4e5bade-6dab-4bc9-90b6-91210fe2f7df" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstAndLastDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumberPalindrome.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NumberPalindrome.java">
+      <file leaf-file-name="FirstAndLastDigitSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FirstAndLastDigitSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+            <state relative-caret-position="285">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -40,7 +40,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NumberPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/FirstAndLastDigitSum.java" />
       </list>
     </option>
   </component>
@@ -54,8 +54,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="149" />
-    <option name="y" value="43" />
+    <option name="x" value="355" />
+    <option name="y" value="34" />
     <option name="width" value="1400" />
     <option name="height" value="908" />
   </component>
@@ -67,25 +67,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="NumberPalindrome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NumberPalindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAndLastDigitSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAndLastDigitSum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NumberPalindrome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NumberPalindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAndLastDigitSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAndLastDigitSum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,9 +111,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPalindrome" />
-      <module name="NumberPalindrome" />
+    <configuration name="FirstAndLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstAndLastDigitSum" />
+      <module name="FirstAndLastDigitSum" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -159,7 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberPalindrome" />
+        <item itemvalue="Application.FirstAndLastDigitSum" />
       </list>
     </recent_temporary>
   </component>
@@ -168,34 +168,33 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7448190e-db92-409a-885b-b7a430f72d00" name="Default" comment="" />
-      <created>1538509007909</created>
+      <changelist id="f4e5bade-6dab-4bc9-90b6-91210fe2f7df" name="Default" comment="" />
+      <created>1538553534341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538509007909</updated>
-      <workItem from="1538509009754" duration="3251000" />
-      <workItem from="1538555622449" duration="109000" />
-      <workItem from="1538557092590" duration="399000" />
+      <updated>1538553534341</updated>
+      <workItem from="1538553542392" duration="2071000" />
+      <workItem from="1538555735599" duration="2133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3759000" />
+    <option name="totallyTimeSpent" value="4204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="149" y="43" width="1400" height="908" extended-state="0" />
+    <frame x="355" y="34" width="1400" height="908" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32957393" />
+      <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="9" weight="0.27571428" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.27571428" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info id="Capture Tool" order="2" />
@@ -223,24 +222,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NumberPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/FirstAndLastDigitSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
