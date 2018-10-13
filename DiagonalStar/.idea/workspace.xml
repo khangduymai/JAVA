@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b831103-ed11-43a7-a19f-28b56c3275a2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" afterDir="false" />
+    <list default="true" id="9d7755e1-1b4e-4403-866b-e6eb66dac785" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DiagonalStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NumberToWords/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberToWords/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NumberToWords/src/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberToWords/src/NumberToWords.java" afterDir="false" />
     </list>
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LargestPrime.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
+      <file leaf-file-name="DiagonalStar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DiagonalStar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="432">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -40,7 +40,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LargestPrime.java" />
+        <option value="$PROJECT_DIR$/src/DiagonalStar.java" />
       </list>
     </option>
   </component>
@@ -59,31 +59,33 @@
     <option name="width" value="1370" />
     <option name="height" value="908" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="LargestPrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LargestPrime" type="462c0819:PsiDirectoryNode" />
+              <item name="DiagonalStar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DiagonalStar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LargestPrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LargestPrime" type="462c0819:PsiDirectoryNode" />
+              <item name="DiagonalStar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DiagonalStar" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,9 +111,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestPrime" />
-      <module name="LargestPrime" />
+    <configuration name="DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiagonalStar" />
+      <module name="DiagonalStar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -157,7 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestPrime" />
+        <item itemvalue="Application.DiagonalStar" />
       </list>
     </recent_temporary>
   </component>
@@ -166,18 +168,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b831103-ed11-43a7-a19f-28b56c3275a2" name="Default" comment="" />
-      <created>1538953767526</created>
+      <changelist id="9d7755e1-1b4e-4403-866b-e6eb66dac785" name="Default" comment="" />
+      <created>1538986853960</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538953767526</updated>
-      <workItem from="1538953769201" duration="12580000" />
-      <workItem from="1539384513184" duration="572000" />
+      <updated>1538986853960</updated>
+      <workItem from="1538986855242" duration="1510000" />
+      <workItem from="1539365528067" duration="13019000" />
+      <workItem from="1539380582803" duration="1203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13152000" />
+    <option name="totallyTimeSpent" value="15732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="950" extended-state="6" />
@@ -185,13 +188,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="9" weight="0.21964382" />
+      <window_info anchor="right" id="Run" order="9" weight="0.27522936" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info id="Capture Tool" order="2" />
@@ -209,7 +213,6 @@
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.15" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
     </layout>
   </component>
@@ -220,17 +223,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
+    <entry file="file://$PROJECT_DIR$/src/DiagonalStar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="72">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
+    <entry file="file://$PROJECT_DIR$/src/DiagonalStar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="192">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiagonalStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
         </state>
       </provider>
     </entry>

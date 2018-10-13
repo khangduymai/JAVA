@@ -4,8 +4,8 @@ public class NumberToWords {
          //System.out.println(reverse(123));
          //System.out.println(reverse2(-12305));
          //System.out.println(getDigitCount(reverse(1010)));
-         System.out.println(getDigitCount(12300));
-         //numberToWords(12300);
+         //System.out.println(getDigitCount(12300));
+         numberToWords(12300);
 
     }
 
@@ -38,7 +38,7 @@ public class NumberToWords {
                 num /= 10;
             }
 
-            reverseLastDigit = Integer.valueOf(newConvert);
+            reverseLastDigit = Integer.parseInt(newConvert);
             return reverseLastDigit;
         }
     }
