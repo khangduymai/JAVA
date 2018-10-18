@@ -1,7 +1,7 @@
 public class DiagonalStar {
 
     public static void main(String[] args){
-            printSquareStar(8);
+            printSquareStar(8);  printSquareStar(8);  printSquareStar(8);
     }
 
     public static void printSquareStar(int num){
@@ -10,21 +10,27 @@ public class DiagonalStar {
         if(num < 5)
             System.out.println("Invalid Value");
         else{
-            int row = num;
-            int column= num;
-            for(int i = 1; i <= row; i++){
-                if(i==1 || i== row){
-                    for(int j = 1; j <= column; j++){
+            int totalRow = num;
+            int totalColumn= num;
+            for(int currentRow = 1; currentRow <= totalRow; currentRow++){
+                if(currentRow==1 || currentRow== totalRow){
+                    for(int currentColumn = 1; currentColumn <= totalColumn; currentColumn++){
                         System.out.print("*");
                     }
                 }
-                if(i >= 2 && i < row){
-                    //int temp = i;
-                    for(int j = 1; j <= column; j++){
-/*                        if(j == 1 || j == column || j == i){
+
+                if(currentRow >= 2 && currentRow < totalRow){
+                    for(int currentColumn = 1; currentColumn <= totalColumn; currentColumn++){
+                        if(currentColumn == 1){
                             System.out.print("*");
-                        }*/
-                        if(i + j == num +1){
+                        }
+                        else if(currentColumn == totalColumn){
+                            System.out.print("*");
+                        }
+                        else if(currentColumn == currentRow){
+                            System.out.print("*");
+                        }
+                        else if(currentColumn == totalRow - currentRow + 1){
                             System.out.print("*");
                         }
                         else

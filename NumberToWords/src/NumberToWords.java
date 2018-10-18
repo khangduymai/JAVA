@@ -24,7 +24,7 @@ public class NumberToWords {
                 newConvert += convert;
                 convertToPositive /= 10;
             }
-            reverseLastDigit= Integer.valueOf(newConvert);
+            reverseLastDigit= Integer.parseInt(newConvert);
             int convertToNegative= (reverseLastDigit * -1);
             return convertToNegative ;
         }

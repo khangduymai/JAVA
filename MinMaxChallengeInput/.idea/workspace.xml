@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13fb8331-2901-4046-af14-3c8a37d09c5b" name="Default" comment="">
+    <list default="true" id="1de397c1-a924-4625-9d9e-ce3b4d871e90" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/ReadingUserInputChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DiagonalStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagonalStar/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FlourPackProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FlourPackProblem/src/FlourPackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/src/FlourPackProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LargestPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberToWords/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberToWords/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberToWords/src/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberToWords/src/NumberToWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UnderstandContinueAndBreak/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnderstandContinueAndBreak/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumberToWords.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
+      <file leaf-file-name="MinMax.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MinMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="27" column="59" lean-forward="true" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+            <state relative-caret-position="488">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -44,7 +49,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NumberToWords.java" />
+        <option value="$PROJECT_DIR$/src/MinMax.java" />
       </list>
     </option>
   </component>
@@ -71,17 +76,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="NumberToWords" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NumberToWords" type="462c0819:PsiDirectoryNode" />
+              <item name="MinMaxChallengeInput" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinMaxChallengeInput" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NumberToWords" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NumberToWords" type="462c0819:PsiDirectoryNode" />
+              <item name="MinMaxChallengeInput" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinMaxChallengeInput" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -90,6 +94,7 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,9 +120,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberToWords" />
-      <module name="NumberToWords" />
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinMax" />
+      <module name="MinMaxChallengeInput" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -163,7 +168,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberToWords" />
+        <item itemvalue="Application.MinMax" />
       </list>
     </recent_temporary>
   </component>
@@ -172,22 +177,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="13fb8331-2901-4046-af14-3c8a37d09c5b" name="Default" comment="" />
-      <created>1538805727538</created>
+      <changelist id="1de397c1-a924-4625-9d9e-ce3b4d871e90" name="Default" comment="" />
+      <created>1539635059030</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538805727538</updated>
-      <workItem from="1538805728911" duration="8028000" />
-      <workItem from="1538845621788" duration="708000" />
-      <workItem from="1538877464950" duration="39000" />
-      <workItem from="1538879210954" duration="4312000" />
-      <workItem from="1539380389277" duration="182000" />
-      <workItem from="1539504808091" duration="793000" />
+      <updated>1539635059030</updated>
+      <workItem from="1539635061416" duration="2158000" />
+      <workItem from="1539637522168" duration="23000" />
+      <workItem from="1539637597443" duration="4631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14062000" />
+    <option name="totallyTimeSpent" value="6812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="950" extended-state="6" />
@@ -201,12 +203,12 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="9" weight="0.2779277" />
+      <window_info anchor="right" id="Run" order="9" weight="0.27522936" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22558014" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22558014" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -215,11 +217,11 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,45 +231,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
+    <entry file="file://$PROJECT_DIR$/src/MinMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="816">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
+    <entry file="file://$PROJECT_DIR$/src/MinMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3408">
-          <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+        <state relative-caret-position="720">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
+    <entry file="file://$PROJECT_DIR$/src/MinMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" selection-start-line="66" selection-end-line="68" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" selection-start-line="66" selection-end-line="68" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="27" column="59" lean-forward="true" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+        <state relative-caret-position="488">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
