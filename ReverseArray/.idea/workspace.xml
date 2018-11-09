@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b831103-ed11-43a7-a19f-28b56c3275a2" name="Default" comment="">
+    <list default="true" id="8b0e16c4-fcc1-421a-906f-291108f30fd2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayWithUserInput/src/ArrayInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array_Beginner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array_Beginner/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinArrayChallenge/src/MinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArrayChallenge/src/com/KhangMai/TestSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DiagonalStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagonalStar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallengeInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallengeInput/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallengeInput/src/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallengeInput/src/MinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NumberToWords/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberToWords/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -16,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LargestPrime.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            <state relative-caret-position="696">
+              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -40,7 +49,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LargestPrime.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -56,7 +65,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="355" />
     <option name="y" value="34" />
-    <option name="width" value="1370" />
+    <option name="width" value="1350" />
     <option name="height" value="908" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,24 +75,24 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="LargestPrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LargestPrime" type="462c0819:PsiDirectoryNode" />
+              <item name="ReverseArray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReverseArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LargestPrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LargestPrime" type="462c0819:PsiDirectoryNode" />
+              <item name="ReverseArray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReverseArray" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,9 +118,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestPrime" />
-      <module name="LargestPrime" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ReverseArray" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -157,7 +166,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestPrime" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -166,53 +175,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b831103-ed11-43a7-a19f-28b56c3275a2" name="Default" comment="" />
-      <created>1538953767526</created>
+      <changelist id="8b0e16c4-fcc1-421a-906f-291108f30fd2" name="Default" comment="" />
+      <created>1541657729151</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538953767526</updated>
-      <workItem from="1538953769201" duration="12580000" />
-      <workItem from="1539384513184" duration="572000" />
-      <workItem from="1539399415166" duration="618000" />
-      <workItem from="1539488005077" duration="26000" />
-      <workItem from="1540442579760" duration="54000" />
+      <updated>1541657729151</updated>
+      <workItem from="1541657735807" duration="5909000" />
+      <workItem from="1541747485551" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13850000" />
+    <option name="totallyTimeSpent" value="5928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="950" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50026983" side_tool="true" weight="0.23571429" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="right" id="Run" order="9" weight="0.21964382" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49973017" weight="0.28028503" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22558014" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.138694" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39904988" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.15" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3297619" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,39 +228,23 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="696">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
         </state>
       </provider>
     </entry>

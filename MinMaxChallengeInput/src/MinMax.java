@@ -43,4 +43,5 @@ public class MinMax {
 
         input.close();
     }
+
 }
