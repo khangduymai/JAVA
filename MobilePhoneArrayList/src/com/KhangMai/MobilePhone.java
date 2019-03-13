@@ -7,6 +7,7 @@ public class MobilePhone {
     private String myPhoneNumber;
     private ArrayList<Contact> myContactList;
 
+
     public MobilePhone(String myPhoneNumber){
         this.myPhoneNumber = myPhoneNumber;
         this.myContactList = new ArrayList<Contact>();
@@ -21,6 +22,8 @@ public class MobilePhone {
        myContactList.add(contact);
        return true;
     }
+
+
 
     public boolean updateContact(Contact oldContact, Contact newContact){
         int foundPosition = findContact(oldContact);
